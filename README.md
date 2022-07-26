@@ -21,6 +21,3 @@ A responsive testimonials grid section built using HTML, CSS, and CSS Grid.
 
 **👨‍💻 Saurabh Maurya**
 
-## License📄
-
-[MIT](https://choosealicense.com/licenses/mit/)
